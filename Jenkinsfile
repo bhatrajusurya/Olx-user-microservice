@@ -32,7 +32,7 @@ stage('test report using jacoco') {
 
 steps {
 
-echo 'jacoco'
+jacoco()
 
 }
 
